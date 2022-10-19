@@ -4,6 +4,14 @@
 	http://jedwatson.github.io/classnames
 */
 
+/*! @preserve
+ * numeral.js
+ * version : 2.0.6
+ * author : Adam Draper
+ * license : MIT
+ * http://adamwdraper.github.com/Numeral-js/
+ */
+
 /*! regenerator-runtime -- Copyright (c) 2014-present, Facebook, Inc. -- license (MIT): https://github.com/facebook/regenerator/blob/main/LICENSE */
 
 /**
@@ -47,7 +55,7 @@
  */
 
 /**
- * @remix-run/router v1.0.2
+ * @remix-run/router v1.0.1
  *
  * Copyright (c) Remix Software Inc.
  *
@@ -58,7 +66,7 @@
  */
 
 /**
- * React Router DOM v6.4.2
+ * React Router DOM v6.4.1
  *
  * Copyright (c) Remix Software Inc.
  *
@@ -69,13 +77,22 @@
  */
 
 /**
- * React Router v6.4.2
+ * React Router v6.4.1
  *
  * Copyright (c) Remix Software Inc.
  *
  * This source code is licensed under the MIT license found in the
  * LICENSE.md file in the root directory of this source tree.
  *
+ * @license MIT
+ */
+
+/**
+ * [js-sha3]{@link https://github.com/emn178/js-sha3}
+ *
+ * @version 0.8.0
+ * @author Chen, Yi-Cyuan [emn178@gmail.com]
+ * @copyright Chen, Yi-Cyuan 2015-2018
  * @license MIT
  */
 
